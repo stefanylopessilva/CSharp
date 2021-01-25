@@ -1,0 +1,7 @@
+C:\Users\Stefany\source\repos\AprendendoCSharp\P11-CalculoPoupanca2\bin\Debug\P11-CalculoPoupanca2.exe.config
+C:\Users\Stefany\source\repos\AprendendoCSharp\P11-CalculoPoupanca2\bin\Debug\P11-CalculoPoupanca2.exe
+C:\Users\Stefany\source\repos\AprendendoCSharp\P11-CalculoPoupanca2\bin\Debug\P11-CalculoPoupanca2.pdb
+C:\Users\Stefany\source\repos\AprendendoCSharp\P11-CalculoPoupanca2\obj\Debug\P11-CalculoPoupanca2.csprojAssemblyReference.cache
+C:\Users\Stefany\source\repos\AprendendoCSharp\P11-CalculoPoupanca2\obj\Debug\P11-CalculoPoupanca2.csproj.CoreCompileInputs.cache
+C:\Users\Stefany\source\repos\AprendendoCSharp\P11-CalculoPoupanca2\obj\Debug\P11-CalculoPoupanca2.exe
+C:\Users\Stefany\source\repos\AprendendoCSharp\P11-CalculoPoupanca2\obj\Debug\P11-CalculoPoupanca2.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stefany\source\repos\AprendendoCSharp\6-AtibuicoesDeVariaveis\bin\Debug\6-AtibuicoesDeVariaveis.exe.config
+C:\Users\Stefany\source\repos\AprendendoCSharp\6-AtibuicoesDeVariaveis\bin\Debug\6-AtibuicoesDeVariaveis.exe
+C:\Users\Stefany\source\repos\AprendendoCSharp\6-AtibuicoesDeVariaveis\bin\Debug\6-AtibuicoesDeVariaveis.pdb
+C:\Users\Stefany\source\repos\AprendendoCSharp\6-AtibuicoesDeVariaveis\obj\Debug\6-AtibuicoesDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\Stefany\source\repos\AprendendoCSharp\6-AtibuicoesDeVariaveis\obj\Debug\6-AtibuicoesDeVariaveis.exe
+C:\Users\Stefany\source\repos\AprendendoCSharp\6-AtibuicoesDeVariaveis\obj\Debug\6-AtibuicoesDeVariaveis.pdb
